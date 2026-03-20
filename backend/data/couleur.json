@@ -1,0 +1,44 @@
+[
+  {
+    "id": "coul_001",
+    "nom": "Bleu Océan",
+    "hexadecimal": "#0077be",
+    "prix": 14.5,
+    "enStock": true
+  },
+  {
+    "id": "coul_002",
+    "nom": "Rouge Passion",
+    "hexadecimal": "#e60000",
+    "prix": 18.0,
+    "enStock": true
+  },
+  {
+    "id": "coul_003",
+    "nom": "Jaune Soleil",
+    "hexadecimal": "#ffcc00",
+    "prix": 12.0,
+    "enStock": true
+  },
+  {
+    "id": "coul_004",
+    "nom": "Vert Forêt",
+    "hexadecimal": "#228b22",
+    "prix": 15.5,
+    "enStock": false
+  },
+  {
+    "id": "coul_005",
+    "nom": "Gris Anthracite",
+    "hexadecimal": "#383e42",
+    "prix": 10.0,
+    "enStock": true
+  },
+  {
+    "id": "coul_006",
+    "nom": "Rose Poudré",
+    "hexadecimal": "#ffc0cb",
+    "prix": 16.5,
+    "enStock": true
+  }
+]
