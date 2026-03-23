@@ -25,10 +25,9 @@ function ajouterAuPanier(idCouleur) {
 
 // --- VUE : ACCUEIL ---
 async function afficherPageAccueil(conteneur) {
-  // 1. On prépare le terrain
   conteneur.innerHTML = `
-        <h2 style="text-align: center; padding: 20px 0;">Nos Couleurs</h2>
-        <section id="conteneur-produits" class="grille-produits"></section>
+        <h2 style="text-align:center; margin: 40px 0;">Nos Produits</h2>
+        <div id="grille" class="grille-produits"></div>
     `;
 
   const zoneProduits = document.getElementById("conteneur-produits");
